@@ -1,6 +1,6 @@
 # Flet - Hello World
 # 2024-08-09 
-#
+# https://www.george.tw/2024/08/10/flet-hello-world/
 
 import flet as ft                           #import Flet 模組
 
