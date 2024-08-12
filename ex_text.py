@@ -1,6 +1,6 @@
 # Flet - Text
 # 2024-08-12
-#
+# https://www.george.tw/2024/08/12/flet-text/
 
 import flet as ft
 
