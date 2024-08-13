@@ -1,6 +1,6 @@
 # Flet - Image
 # 2024-08-13
-# 
+# https://www.george.tw/2024/08/14/flet-image/
 import flet as ft
 
 def main(page: ft.Page):   
