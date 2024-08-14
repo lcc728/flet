@@ -16,7 +16,7 @@ def main(page: ft.Page):
         ft.FilledButton(text="Filled button"),        
         ft.FilledTonalButton("FilledTonalButton with icon", icon="favorite", icon_color= "red"),  
         ft.OutlinedButton(text="Outlined button" , icon="favorite"),
-        ft.ElevatedButton(text="Elevated button"),
+        ft.ElevatedButton(text="Elevated button",url="https://www.george.tw", url_target ="BLANK"),
         ft.FloatingActionButton(icon="favorite",bgcolor="red"),
 
         
