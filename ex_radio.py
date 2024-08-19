@@ -6,6 +6,7 @@ import flet as ft
 
 def main(page: ft.Page):
     def radio_change(e):
+        # showText.value = f"你最愛的文字編輯器是：{e.control.value}"
         showText.value = f"你最愛的文字編輯器是：{e.control.value}"
         page.update()
 
