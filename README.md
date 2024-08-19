@@ -19,8 +19,9 @@
 ... 待增加
 
 **程式範例:
-QR Code 產生器 :　https://www.george.tw/2024/08/17/flet-qrcode-generator/
-密碼產生器:  https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
+ QR Code 產生器 :　https://www.george.tw/2024/08/17/flet-qrcode-generator/
+
+ 密碼產生器:  https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
 
 ========
 
@@ -48,6 +49,8 @@ Interactive Components: Utilization of interactive elements such as Slider and C
 ... To be added
 
 Code Examples
+  
   QR Code Generator: https://www.george.tw/2024/08/17/flet-qrcode-generator/
+  
   Password Generator:  https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
 
