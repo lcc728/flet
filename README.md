@@ -14,8 +14,11 @@
 **功能特色**
 
 基本元件使用: Button, Text, Container 等基本元件的應用
+
 佈局管理: Row, Column 等佈局方式的實作
+
 互動元件: Slider, Checkbox 等互動元件的應用
+
 ... 待增加
 
 **程式範例:
@@ -45,8 +48,11 @@ Replace ex_xxxx.py with the actual name of your Python file.
 
 Features
   Basic Component Usage: Applications of fundamental components like Button, Text, and Container.
+  
 Layout Management: Implementation of layout methods such as Row and Column.
+
 Interactive Components: Utilization of interactive elements such as Slider and Checkbox.
+
 ... To be added
 
 Code Examples
