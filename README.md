@@ -19,6 +19,7 @@
 ... 待增加
 
 **程式範例:
+
  QR Code 產生器 :　https://www.george.tw/2024/08/17/flet-qrcode-generator/
 
  密碼產生器:  https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
