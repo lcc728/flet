@@ -27,6 +27,8 @@
 
  密碼產生器:  https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
 
+ 溫度轉換: https://www.george.tw/2024/08/20/flet-temperature_conversion/
+
 ========
 
 Flet Practice Collection
@@ -60,4 +62,6 @@ Code Examples
   QR Code Generator: https://www.george.tw/2024/08/17/flet-qrcode-generator/
   
   Password Generator:  https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
+
+  Temperature conversion: https://www.george.tw/2024/08/20/flet-temperature_conversion/
 
