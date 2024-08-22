@@ -29,6 +29,8 @@
 
  溫度轉換: https://www.george.tw/2024/08/20/flet-temperature_conversion/
 
+ BMI 計算機 : https://www.george.tw/2024/08/22/flet-bmi-calculator/
+
 ========
 
 Flet Practice Collection
@@ -64,4 +66,6 @@ Code Examples
   Password Generator:  https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
 
   Temperature conversion: https://www.george.tw/2024/08/20/flet-temperature_conversion/
+
+  BMI Calculator: https://www.george.tw/2024/08/22/flet-bmi-calculator/
 
