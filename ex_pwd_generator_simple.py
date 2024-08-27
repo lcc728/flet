@@ -1,5 +1,5 @@
 # Flet Password generator (Simple version)
-# 2024-08-19
+# 2024-08-19 
 # https://www.george.tw/2024/08/19/flet-password-generator-simple-version/
 
 import flet as ft
