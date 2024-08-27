@@ -1,7 +1,7 @@
 # Flet - Multiplication table - 99 乘法表
 # 2024-08-26
 # https://www.george.tw/2024/08/26/flet-datatable-multiplication-table/
-import flet as ft
+import flet as ft 
 
 def main(page: ft.Page):
     page.title = "99 乘法表"
