@@ -1,5 +1,5 @@
 # Flet -QR Code Generator
-# 2024-08-16
+# 2024-08-16 
 # https://www.george.tw/2024/08/17/flet-qrcode-generator/
 import flet as ft
 import qrcode
