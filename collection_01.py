@@ -1,5 +1,5 @@
 # Flet - Tab - 練習集 - QR Code, Password 產生器, BMI 計算機, 溫度轉換器
-# 2024-08-27
+# 2024-08-27 
 # https://www.george.tw/2024/08/28/flet-collection-01/
 
 import flet as ft
