@@ -1,6 +1,6 @@
 # Flet - Stack - 神奇 8 號球
 # 2024-09-04
-# https://www.george.tw/2024/09/05/flet-stack-%e7%a5%9e%e5%a5%878%e8%99%9f%e7%90%83/
+# https://www.george.tw/2024/09/05/flet-stack/
 
 import flet as ft 
 import random
