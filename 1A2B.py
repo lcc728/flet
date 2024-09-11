@@ -44,7 +44,7 @@ def main(page: ft.Page):
           ft.ElevatedButton(text="重來", on_click=game.start_game)
       ]),
       result_text,
-      game.result_text
+      game.history_list
   )
 
 ft.app(target=main)
