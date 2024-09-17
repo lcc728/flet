@@ -1,6 +1,6 @@
 # Flet - Accounting book - 記帳簿
 # 2024-09-17
-# 
+# 利用 Panda 和 CSV 完成一個記帳簿
 
 import flet as ft
 import csv
