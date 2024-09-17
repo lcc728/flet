@@ -31,6 +31,8 @@
 
  BMI 計算機 : https://www.george.tw/2024/08/22/flet-bmi-calculator/
 
+ 記帳簿 :　https://github.com/lcc728/flet/blob/main/accounting_book.py
+
 ========
 
 Flet Practice Collection
@@ -69,3 +71,5 @@ Code Examples
 
   BMI Calculator: https://www.george.tw/2024/08/22/flet-bmi-calculator/
 
+　Accounting Book :　https://github.com/lcc728/flet/blob/main/accounting_book.py
+  
