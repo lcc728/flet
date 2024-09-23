@@ -6,6 +6,7 @@
 import flet as ft
 import pandas as pd
 import random
+import string
 
 def main(page: ft.Page):
     page.title = "單字卡"
@@ -16,7 +17,7 @@ def main(page: ft.Page):
     is_front = True
     df = pd.DataFrame()
 
-    alphabet_options = [ft.dropdown.Option(chr(i)) for i in range(ord('A'), ord('Z') + 1)]
+    alphabet_options = [ft.dropdown.Option(letter) for letter in string.ascii_uppercase]
 
     def load_csv(letter):
         nonlocal df, current_index, is_front
